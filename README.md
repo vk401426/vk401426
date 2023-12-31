@@ -1,3 +1,4 @@
+<h1 align="center"><img src="https://github.com/vk401426/vk401426/blob/main/intro.png"  width="400" alt="ganesh"></h1>
 <h1 align="center">🙏 नमस्ते, I'm Chandrakant !!🙏</h1>
 <h3 align="center">The 19-year-old tech maestro and BSc IT whiz at Mrs KMPM Vocational College in the heart of Jamshedpur! 🎓</h3>
 
