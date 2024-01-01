@@ -1,19 +1,36 @@
-<h1 align="center"><img src="https://github.com/vk401426/vk401426/blob/main/intro.png"  width="400" alt="ganesh"></h1>
-<h1 align="center">🙏 नमस्ते, I'm Chandrakant !!🙏</h1>
-<h3 align="center">The 19-year-old tech maestro and BSc IT whiz at Mrs KMPM Vocational College in the heart of Jamshedpur! 🎓</h3>
+<h1 align="center"><img src="https://github.com/vk401426/vk401426/raw/main/intro.png"  width="400" alt="ganesh"><br>
+<img align="center" src="https://github.com/vk401426/vk401426/raw/main/profile-Banner.png" width="100%"></h1>
+<h1 align="center">🙏 Namaste, I'm Chandrakant !!🙏</h1>
+<h4 align="center">🚀 I love creating cool websites using HTML, CSS, JavaScript, Bootstrap, and React.js. I'm also a computer ninja exploring how operating systems work, playing with computer hardware, and coding magic with Git. Always up for geeking out and making awesome tech stuff! #TechEnthusiast #WebDeveloper 🌐💻</h4>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Enthusiast Extraordinaire
+## <img align="center" src="https://media3.giphy.com/media/CS2MR6lBWus4LOpv3D/giphy.gif" width=40> **About Me:**
 
-- 📲 Android ROM Developer 🤖
-- ☁️ AWS-EC2 Cloud Wizard ☁️
-- 💻 Programming Jedi (C, C++, Java) 💻
-- 🗃️ Database Dynamo (RDBMS, SQL) 🗃️
-- 🌐 Web Sorcerer (HTML, CSS, JS, Bootstrap, React.js) 🌐
-- 🐧 Linux Environment Ninja 🐧
-- 🖥️ OS (Operating Systems) Explorer 🖥️
-- 🛠️ Computer Hardware Aficionado 🛠️
+- 🌍 19-year-old tech enthusiast from Patna, Bihar.
+- 🔭 Currently studying **BSc IT** at **Mrs. KMPM Vocational College** in the heart of **Jamshedpur!** 🎓.
+- 🌱 Coding journey includes a focus on **Competitive Programming and DSA**.
+- 👯 Eager to collaborate on **Java and Web Projects**.
+- 👨‍💻 Explore my coding adventures on <a href="https://github.com/vk401426?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chandrakant" height="30" width="40" /></a>.
+- 💬 Always up for a tech chat! Ask me about **Java, HTML, and CSS**. 💻✨
+
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  Languages and Tools:
+
+![Android](https://img.shields.io/badge/AOSP--ROM--Dev-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![AWS-EC2](https://img.shields.io/badge/AWS--EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br>
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<br>
+![RDBMS](https://img.shields.io/badge/RDBMS-%2300f.svg?style=for-the-badge&logo=database&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=sql&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+<br>
+![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=yellow) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![OS](https://img.shields.io/badge/OS-%23313131.svg?style=for-the-badge&logo=operating-system&logoColor=white)
+<br>
+![Hardware](https://img.shields.io/badge/Hardware-%230071C5.svg?style=for-the-badge&logo=hardware&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Project Highlights:
 
@@ -36,13 +53,17 @@
 
 Ready to geek out over tech, discuss the latest trends, or dive into some funky projects? Let's connect and make the tech world even more awesome! 🚀✨
 
+
 <p align="center">
-  <a href="https://linkedin.com/in/vk401426" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="vk401426" /></a>
-  <a href="https://github.com/vk401426" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="vk401426" /></a>
-  <a href="https://t.me/vk401426" target="_blank"><img align="center" src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="vk401426" /></a>
-  <a href="mailto:vk401426@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="vk401426" /></a>
+  <a href="https://linkedin.com/in/vk401426" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin&logoColor=007BB6" alt="vk401426" /></a>
+  <a href="https://www.instagram.com/_its_tag_d/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-370617?style=for-the-badge&logo=Instagram" alt="vk401426" /></a>
+  <a href="https://t.me/vk401426" target="_blank"><img align="center" src="https://img.shields.io/badge/-Telegram-%23000000?style=for-the-badge&logo=Telegram" alt="vk401426" /></a>
+  <a href="mailto:vk401426@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-f2cc8f?style=for-the-badge&logo=Gmail" alt="vk401426" /></a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=vk401426&label=Visitors&color=0088cc&style=flat-square" alt="vk401426" /> </p>
 </p>
+  
+
+
 
 ## <img src="https://media.giphy.com/media/lOfpvYQoiJW03vpJhP/giphy.gif" width="40"> GitHub Stats:
 
@@ -79,7 +100,6 @@ Ready to geek out over tech, discuss the latest trends, or dive into some funky 
 	</ul>
 
  <!-- Emojis -->
-<p align="center">
-  Made with ❤️ using Markdown and Emojis!
-</p>
+
+<h2><p align="center" > Made with ❤️ by<img align="center" src="https://github.com/vk401426/vk401426/raw/main/urja.gif" width="120"></p></h2>
 
