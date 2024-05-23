@@ -56,7 +56,7 @@ Ready to geek out over tech, discuss the latest trends, or dive into some funky 
 
 <p align="center">
   <a href="https://linkedin.com/in/vk401426" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin&logoColor=007BB6" alt="vk401426" /></a>
-  <a href="https://www.instagram.com/_its_tag_d/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-370617?style=for-the-badge&logo=Instagram" alt="vk401426" /></a>
+  <a href="https://www.instagram.com/vk401426/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-370617?style=for-the-badge&logo=Instagram" alt="vk401426" /></a>
   <a href="https://t.me/vk401426" target="_blank"><img align="center" src="https://img.shields.io/badge/-Telegram-%23000000?style=for-the-badge&logo=Telegram" alt="vk401426" /></a>
   <a href="mailto:vk401426@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-f2cc8f?style=for-the-badge&logo=Gmail" alt="vk401426" /></a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=vk401426&label=Visitors&color=0088cc&style=flat-square" alt="vk401426" /> </p>
